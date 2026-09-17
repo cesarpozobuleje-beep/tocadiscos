@@ -1,0 +1,6 @@
+.claude/
+*.lnk
+LEEME*.txt
+referencias/
+Thumbs.db
+.DS_Store
